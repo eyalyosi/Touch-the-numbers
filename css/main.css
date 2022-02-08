@@ -1,0 +1,43 @@
+td {
+  width: 50px;
+  height: 50px;
+  background-color: #aefeff;
+  border: 5px solid #35858b;
+  text-align: center;
+  font-size: 30px;
+}
+
+td:hover {
+  background-color: #4fbdba;
+}
+
+.timer {
+  width: 130px;
+  height: 50px;
+  background-color: #072227;
+  margin-bottom: 10px;
+  color: white;
+  font-size: 45px;
+}
+
+
+button {
+    box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:11px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:5px 19px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+
+Button:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
